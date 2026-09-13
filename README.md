@@ -1,12 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Mikaël
 
-- 🔭 I'm currently working at [CBA Informatique Libérale](https://www.cbainfo.fr) as Site Reliability Engineer
-- 💬 Ask me about Kubernetes, Talos, Observability, Reliability and Security
-- 🔐 CTF player — I love security investigation and breaking things (legally)
-- 🚀 Passionate about Platform Engineering & Developer Experience (IDP, AI, standardization)
-- 📫 How to reach me: [@mbatard.bsky.social](https://bsky.app/profile/mbatard.bsky.social) on BlueSky
-- 🌐 Project: [kareelio.fr](https://kareelio.fr)
-- 🌐 Blog: [calmops.fr](https://calmops.fr)
+I enjoy building reliable platforms, automating infrastructure and improving developer experience.
+
+- 🔭 Site Reliability Engineer at CBA Informatique Libérale
+- ☸️ Kubernetes, Talos Linux, GitOps, Observability & Reliability
+- 🚀 Platform Engineering, Internal Developer Platforms & Developer Experience
+- 🔐 Security enthusiast & CTF player — I enjoy investigating and breaking things (legally)
+- 🐧 Open source enthusiast & homelabber
+- 🤖 Exploring AI-assisted infrastructure, development & operations
+
+### 🎤 Talks
+
+**Talos + OpenTofu + Proxmox — Immutable, automated and secure Kubernetes infrastructure**
+Cloud Native Aix-Marseille · September 2026
+
+[Slides](https://talks.calmops.fr/talos-opentofu-proxmox_2026_CloudNativeAixMarseille.html) · [Sources](https://github.com/mbatard/talk-talos-opentofu-proxmox)
+
+### 🚀 Projects
+
+[Kareelio](https://kareelio.fr) — A simple job search tracking platform.
+
+### 🌐 Find me
+
+[Website](https://calmops.fr) · [LinkedIn](https://www.linkedin.com/in/mbatard/) · [Bluesky](https://bsky.app/profile/mbatard.bsky.social)
 
 [![GitHub followers](https://img.shields.io/github/followers/mbatard?style=flat&logo=github&label=GitHub)](https://github.com/mbatard)
 [![LinkedIn followers](https://img.shields.io/badge/LinkedIn-484%20followers-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mbatard/)
