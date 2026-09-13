@@ -9,5 +9,5 @@
 - 🌐 Blog: [calmops.fr](https://calmops.fr)
 
 [![GitHub followers](https://img.shields.io/github/followers/mbatard?style=flat&logo=github&label=GitHub)](https://github.com/mbatard)
-[![LinkedIn followers](https://img.shields.io/badge/LinkedIn-484%20followers-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mbatard/)
+[![LinkedIn followers](https://img.shields.io/badge/LinkedIn-484%20followers-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mbatard/)
 [![Bluesky followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%3Factor%3Dmbatard.bsky.social&query=%24.followersCount&label=Bluesky&suffix=%20followers&logo=bluesky&color=0285FF)](https://bsky.app/profile/mbatard.bsky.social)
