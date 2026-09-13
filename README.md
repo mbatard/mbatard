@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mikaël
+## Hi there 👋 I'm Mikael
 
 I enjoy building reliable platforms, automating infrastructure and improving developer experience.
 
