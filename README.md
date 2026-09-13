@@ -12,6 +12,7 @@ I enjoy building reliable platforms, automating infrastructure and improving dev
 ### 🎤 Talks
 
 **Talos + OpenTofu + Proxmox — Immutable, automated and secure Kubernetes infrastructure**
+
 Cloud Native Aix-Marseille · September 2026
 
 [Slides](https://talks.calmops.fr/talos-opentofu-proxmox_2026_CloudNativeAixMarseille.html) · [Sources](https://github.com/mbatard/talk-talos-opentofu-proxmox)
